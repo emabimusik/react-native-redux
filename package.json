@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "react": "16.0.0-alpha.12",
+    "react-addons-update": "^15.6.2",
     "react-native": "0.48.4",
+    "react-native-router-flux": "^4.0.0-beta.21",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
